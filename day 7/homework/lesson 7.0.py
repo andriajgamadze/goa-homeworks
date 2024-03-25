@@ -1,3 +1,4 @@
+
 print("enter a string")
 a = str(input())
 
@@ -12,9 +13,12 @@ d = bool(input())
 
 print(a)
 print(type(a))
+
 print(b)
 print(type(b))
+
 print(c)
 print(type(c))
+
 print(d)
 print(type(d))
