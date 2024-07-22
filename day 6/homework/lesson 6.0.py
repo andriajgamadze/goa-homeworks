@@ -1,0 +1,11 @@
+print(5>3 or 6>8)
+print(5>7 or 6>2)
+print(9>7 or 2>5)
+print(3>5 or 6>3)
+print(8>4 or 7>9)
+
+print(9>5 and 1<7)
+print(2>1 and 3<1)
+print(6>8 and 8>3)
+print(5>7 and 7>4)
+print(5<9 and 9>7)
